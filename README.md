@@ -1,4 +1,4 @@
-![ardawn](https://cdn.discordapp.com/attachments/1084947172467937331/1154474854033141810/ardawnmor400.jpg)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ardawn9&label=Profile%20views&color=7d69ff&style=flat alt="ardawn9" /> </p>
 
 # Say 👋 hi for Ardawn.
@@ -9,7 +9,7 @@ Founder @ Alines™ Development**
 
 # 📈 Status
 
-[![ardawn9](https://lanyard.cnrad.dev/api/825788663060627486)](https://discord.com/users/825788663060627486)
+
 
 # 📊 Stats
 
