@@ -2,8 +2,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ardawn9&label=Profile%20views&color=7d69ff&style=flat alt="ardawn9" /> </p>
 
 <h1 align="center">Say 👋 hi for Ardawn.</h1>
-<h3 align="center">I have several projects. I'm developer, designer, community manager, editor, content creator. Also i know TR/ENG languages. See below for contact.</h3>
-Alines™ Development
+<h3 align="center">I have several projects. I'm developer, designer, community manager, editor, content creator. Also i know TR/ENG languages. See below for contact.
+
+Alines™ Development</h3>
 
 
 <h1 align="center">📈 Status</h1>
