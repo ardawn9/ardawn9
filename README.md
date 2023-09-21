@@ -3,6 +3,7 @@
 
 <h1 align="center">Say 👋 hi for Ardawn.</h1>
 <h3 align="center">I have several projects. I'm developer, designer, community manager, editor, content creator. Also i know TR/ENG languages. See below for contact.</h3>
+Alines™ Development
 
 
 <h1 align="center">📈 Status</h1>
