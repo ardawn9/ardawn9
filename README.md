@@ -4,7 +4,7 @@
 # Say 👋 hi for Ardawn. 
 I have several projects. I'm developer, designer, community manager, editor, content creator. Also i know TR/ENG languages. If you want to develop a project with me, you can contact me. See below for contact.
 
-**Founder @** **[Alines™ Development](https://discord.gg/KsyJsquuyC](https://github.com/AlinesDevelopment)**
+**Founder @** **[Alines™ Development](https://github.com/AlinesDevelopment)**
 
 
 # 📈 Status
