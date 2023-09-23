@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ardawn9&label=Profile%20views&color=7d69ff&style=flat alt="ardawn9" /> </p>
 
 # Say 👋 hi for Ardawn. 
-I'm developer, designer, community manager, editor, content creator. Also i know TR/ENG languages. If you want to develop a project with me, you can **[📞 Contact](https://github.com/ardawn9#-contact)** with me. You can see **[📚 Languages, Modules and Tools](https://github.com/ardawn9#-languages-modules-and-tools)** what i know, my **[📊 Stats](https://github.com/ardawn9#-stats)** and current **[📈 Status](https://github.com/ardawn9#-status)** (Discord).
+I'm developer, designer, community manager, editor, content creator. Also i know 🇹🇷/🇬🇧 languages. If you want to develop a project with me, you can **[📞 Contact](https://github.com/ardawn9#-contact)** with me. You can see **[📚 Languages, Modules and Tools](https://github.com/ardawn9#-languages-modules-and-tools)** what i know, my **[📊 Stats](https://github.com/ardawn9#-stats)** and current **[📈 Status](https://github.com/ardawn9#-status)** (Discord).
 
 **Founder @** **[Alines™ Development](https://github.com/AlinesDevelopment)**
 
