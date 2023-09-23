@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ardawn9&label=Profile%20views&color=7d69ff&style=flat alt="ardawn9" /> </p>
 
 # Say 👋 hi for Ardawn. 
-I have several projects. I'm developer, designer, community manager, editor, content creator. Also i know TR/ENG languages. If you want to develop a project with me, you can contact me. See below for contact.
+I have several projects. I'm developer, designer, community manager, editor, content creator. Also i know TR/ENG languages. If you want to develop a project with me, you can **[📞 Contact](https://github.com/AlinesDevelopment)** me. See below for more info.
 
 **Founder @** **[Alines™ Development](https://github.com/AlinesDevelopment)**
 
