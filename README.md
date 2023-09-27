@@ -15,8 +15,6 @@ I'm developer, designer, community manager, editor, content creator. Also i know
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=ardawn9&theme=tokyonight&show_icons=true&locale=en" alt="ardawn9" /></p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=ardawn9&theme=tokyonight" alt="ardawn9" /></p>
-
 <p><img align="center-left" src="https://github-profile-trophy.vercel.app/?username=ardawn9&theme=tokyonight" alt="ardawn9" /></p>
 
 # 📚 Languages, Modules and Tools
