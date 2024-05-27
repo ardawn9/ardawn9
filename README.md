@@ -1,4 +1,4 @@
-![ardawn](https://cdn.discordapp.com/attachments/851175590072418376/1229104055159230554/ardawnmor400.jpg?ex=662e775a&is=661c025a&hm=adf3b3a48ecd1bc5a94f62c5b10c093433ee952c65331f93668e9067160621e0&)
+![ardawn](https://cdn.discordapp.com/attachments/851175590072418376/1244651779329753098/ardawnmor400.jpg?ex=6655e3cc&is=6654924c&hm=1326b18828900faa1278da7434bf0130764bb568641f45d47de08e39b03c4008&)
 
 # Say 👋 hi for Ardawn. 
 I'm developer, designer, community manager, editor, content creator. Also i know 🇹🇷/🇬🇧 languages. If you want to develop a project with me, you can **[📞 Contact](https://github.com/ardawn9#-contact)** with me. You can see **[📚 Languages, Modules and Tools](https://github.com/ardawn9#-languages-modules-and-tools)** what i know, my **[📊 Stats](https://github.com/ardawn9#-stats)** and current **[📈 Status](https://github.com/ardawn9#-status)** (Discord).
