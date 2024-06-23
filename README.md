@@ -1,4 +1,4 @@
-![ardawn](https://imgur.com/a/ardawn-ox1GK0r)
+![ardawn](https://imgur.com/ngawdC9)
 
 # Say 👋 hi for Ardawn. 
 I'm developer, designer, community manager, editor, content creator. Also i know 🇹🇷/🇬🇧 languages. If you want to develop a project with me, you can **[📞 Contact](https://github.com/ardawn9#-contact)** with me. You can see **[📚 Languages, Modules and Tools](https://github.com/ardawn9#-languages-modules-and-tools)** what i know, my **[📊 Stats](https://github.com/ardawn9#-stats)** and current **[📈 Status](https://github.com/ardawn9#-status)** (Discord).
