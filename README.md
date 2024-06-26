@@ -13,6 +13,14 @@ I'm developer, designer, community manager, editor, content creator. Also i know
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=ardawn9&theme=tokyonight&show_icons=true&locale=en" alt="ardawn9" /></p>
 
+<img alt="ardawn9" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ardawn9&theme=tokyonight&langs_count=8&layout=compact"/>
+
+![ardawn9](http://github-readme-streak-stats.herokuapp.com?user=ardawn9&theme=tokyonight&date_format=j%20M%5B%20Y%5D)
+
+![ardawn9](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ardawn9&theme=tokyonight)
+
+![ardawn9](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ardawn9&theme=tokyonight&utcOffset=8)
+
 <p><img align="center-left" src="https://github-profile-trophy.vercel.app/?username=ardawn9&theme=tokyonight" alt="ardawn9" /></p>
 
 # 📚 Languages, Modules and Tools
