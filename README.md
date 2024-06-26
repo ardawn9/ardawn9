@@ -15,9 +15,9 @@ I'm developer, designer, community manager, editor, content creator. Also i know
 
 ![ardawn9](https://github-readme-stats.vercel.app/api?username=ardawn9&theme=tokyonight&show_icons=true&locale=en)
 
-![ardawn9](https://github-readme-stats.vercel.app/api/top-langs/?username=ardawn9&theme=tokyonight&langs_count=8&layout=compact)
-
 ![ardawn9](http://github-readme-streak-stats.herokuapp.com?user=ardawn9&theme=tokyonight&date_format=j%20M%5B%20Y%5D)
+
+![ardawn9](https://github-readme-stats.vercel.app/api/top-langs/?username=ardawn9&theme=tokyonight&langs_count=8&layout=compact)
 
 ![ardawn9](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ardawn9&theme=tokyonight&utcOffset=8)
 
